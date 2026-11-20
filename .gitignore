@@ -1,0 +1,6 @@
+# Dados pessoais da Ana (dieta, treinos, compromissos) — NUNCA publicar
+dados-iniciais/
+*.backup.json
+rotina-da-ana_backup_*.json
+rotina-da-ana_relatorio_*.json
+rotina-da-ana_*.csv
